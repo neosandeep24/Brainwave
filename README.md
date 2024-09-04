@@ -9,6 +9,10 @@ Explore the frontier of artificial intelligence with our cutting-edge Brainwave 
 - Showcase the capabilities and advancements in AI technology.
 - Foster learning and collaboration in the AI community.
 
+## Project Demo
+![image](https://github.com/user-attachments/assets/c8ce9d1f-9108-41d7-83ef-c66d6846e30a)
+
+
 ## Technology Stack Used
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
